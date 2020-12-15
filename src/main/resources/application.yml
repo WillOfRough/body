@@ -24,3 +24,6 @@ custom:
     naver:
       client-id: UylBCsrx8iPEaqspG7Ey
       client-secret: z1dddw68iL
+java:
+  runtime:
+    version: 11
